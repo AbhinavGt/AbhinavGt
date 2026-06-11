@@ -1,7 +1,7 @@
 <p align="center">
   <img src="header(1).svg" width="100%" alt="Banner">
 </p>
-</br></br>
+</br>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Abhinav Gupta</h1>
 <h3 align="center">Software Engineer</h3>
 
@@ -9,6 +9,7 @@
   <a href="https://komarev.com/ghpvc/?username=abhinavgt">
     <img src="https://komarev.com/ghpvc/?username=abhinavgt&label=Profile%20views&color=00FFFF&style=flat-square" alt="abhinavgt's profile views" />
   </a>
+  
 </p>
 
 ## 📌 About Me
@@ -75,7 +76,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="ArchLinux" width="40" />
 </p>
 
 <p align="center">
