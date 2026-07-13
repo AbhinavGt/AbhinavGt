@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="header(1).svg" width="100%" alt="Banner">
-</p>
+<a href="https://github.com/AbhinavGt/AbhinavGt">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhinavGt/AbhinavGt/main/dark_mode.svg">
+  </picture>
+</a>
 </br>
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Abhinav Gupta</h1>
 <h3 align="center">Software Engineer</h3>
