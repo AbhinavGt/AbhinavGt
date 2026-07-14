@@ -20,15 +20,13 @@
 </br><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /></br>
 
 ## 📌 About Me
-- 🌱 I’m currently learning -> System Design, AIML, DSA, Web3, FullStack
-- 🔭 I’m currently working on -> Auto Notes site synced with Obsidian
 - 🤝 I’m looking forward -> To learn new and interesting teach
 - 📝 I regularly write notes checkout -> https://abhinavgt.github.io/notes/
 - ⚡ Fun fact -> I love music while working
 
 
 ## 🧠 My Focus Areas
-- AIML, Full Stack, Web3
+- AIML, Full Stack, Web3, DevOps
 
 
 ## 📊 GitHub Stats & Trophies
